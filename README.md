@@ -8,10 +8,18 @@ This design blablablablablablablabla
 
 ## Design Plan
 
-| Inspiration                        |
-| :--------------------------------- |
-| [dribble](https://dribbble.com/)   |
-| [colorhunt](https://colorhunt.co/) |
+| References                         | Function              |
+| :--------------------------------- | :-------------------- |
+| [Colorhunt](https://colorhunt.co/) | Color Selector Design |
+| [Unsplash](https://unsplash.com/)  | Images Source         |
+
+| Inspirations                                                        |
+| :------------------------------------------------------------------ |
+| [Phillips](https://www.philips.com/a-w/about.html)                  |
+| [Hubspot](https://www.hubspot.com/)                                 |
+| [Nordstrom](https://www.nordstrom.com/browse/about/company-history) |
+
+## Live Preview
 
 ## Screenshots
 
