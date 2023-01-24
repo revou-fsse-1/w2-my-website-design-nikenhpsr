@@ -13,11 +13,11 @@ This design blablablablablablablabla
 | [Colorhunt](https://colorhunt.co/) | Color Selector Design |
 | [Unsplash](https://unsplash.com/)  | Images Source         |
 
-| Inspirations                                                        |
-| :------------------------------------------------------------------ |
-| [Phillips](https://www.philips.com/a-w/about.html)                  |
-| [Hubspot](https://www.hubspot.com/)                                 |
-| [Nordstrom](https://www.nordstrom.com/browse/about/company-history) |
+| Inspirations                      |
+| :-------------------------------- |
+| [Tiket](https://www.tiket.com)    |
+| [Agoda](https://www.agoda.com/)   |
+| [Airbnb](https://www.airbnb.com/) |
 
 | Color         | Code    |
 | :------------ | :------ |
