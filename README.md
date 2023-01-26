@@ -52,4 +52,14 @@ Prototype (provide with Figma):
 | :-------------------------------------: | :-----------------------------------: | :--------------------------------------------------------: |
 | ![Home](/assets/wireframe/homepage.jpg) | ![About](/assets/wireframe/about.jpg) | ![Contact/Partner with Us](/assets/wireframe/contacts.jpg) |
 
-### Mockup & Prototype (Figma)
+### Mockup (Figma)
+
+| **Homepage** | **About** | **Contact/Partner with Us** |
+| :----------: | :-------: | :-------------------------: |
+|              |           |                             |
+
+### Prototype (Figma)
+
+| **Homepage** | **About** | **Contact/Partner with Us** |
+| :----------: | :-------: | :-------------------------: |
+|              |           |                             |
