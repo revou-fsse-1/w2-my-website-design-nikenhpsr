@@ -6,7 +6,7 @@
 
 This design blablablablablablablabla
 
-## Research and Analysis
+## Sources
 
 | References                         | Function              |
 | :--------------------------------- | :-------------------- |
@@ -28,13 +28,20 @@ This design blablablablablablablabla
 | Bunker      | #1A1B1B |
 | Ivory       | #FFFFFE |
 
+**Fonts Used:**
+
+- PT Sans
+- Fredoka One
+- OpenSans
+- Noto Sans
+
 ## Live Preview
 
 Wireframe (provide with Miro): https://miro.com/app/board/uXjVPuF9TEQ=/?share_link_id=248301233094
 
 Mockup (provide with Figma):
 
-Prototype (provide with Figma): 
+Prototype (provide with Figma):
 
 ## Screenshots
 
