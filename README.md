@@ -4,11 +4,13 @@
 
 ## Description
 
-This is an example of a website for renting a guest house. A cheaper option compared to hotels with an amazing & rare view. The design is inspired by Agoda, Traveloka, Pomah Rent House, and Airbnb.
+This is an example of a website for renting a guest house. The design is inspired by Agoda, Traveloka, Pomah Rent House, and Airbnb. Below is a preview for Homey Company Profile Website :
+
+![front-page](./assets/front-page.png)
 
 ## Sources
 
-| References                         | Function              |
+| References                         | Used for              |
 | :--------------------------------- | :-------------------- |
 | [Colorhunt](https://colorhunt.co/) | Color Selector Design |
 | [Unsplash](https://unsplash.com/)  | Images Source         |
@@ -37,34 +39,28 @@ This is an example of a website for renting a guest house. A cheaper option comp
 - OpenSans
 - Noto Sans
 
-## Live Preview
-
-Wireframe (provide with Miro): 
-
-[![miro-logo](https://raw.githubusercontent.com/revou-fsse-1/w2-my-website-design-aldwiputra/main/assets/go-to-miro-button.png)](https://miro.com/app/board/uXjVPuF9TEQ=/?share_link_id=248301233094))
-
-Mockup (provide with Figma): 
-
-[![figma-logo](https://raw.githubusercontent.com/revou-fsse-1/w2-my-website-design-aldwiputra/main/assets/go-to-figma-button.png)](https://www.figma.com/file/RspfUgwG4xbWm1HZy7Q62B/week-2-assignment?node-id=12%3A42&t=BNGhqaSUA0VQEtdj-1)
-
-Prototype (provide with Figma):
-
 ## Screenshots
 
 ### Wireframe (Miro)
 
-|            **Homepage**             |               **About**               |                **Contact/Partner with Us**                |
-| :---------------------------------: | :-----------------------------------: | :-------------------------------------------------------: |
-| ![Home](/assets/wireframe/home.jpg) | ![About](/assets/wireframe/about.jpg) | ![Contact/Partner with Us](/assets/wireframe/contact.jpg) |
+|             **Homepage**             |               **About**                |                **Contact/Partner with Us**                 |
+| :----------------------------------: | :------------------------------------: | :--------------------------------------------------------: |
+| ![Home](./assets/wireframe/home.jpg) | ![About](./assets/wireframe/about.jpg) | ![Contact/Partner with Us](./assets/wireframe/contact.jpg) |
 
 ### Mockup (Figma)
 
-|           **Homepage**           |             **About**              |      **Contact/Partner with Us**       |
-| :------------------------------: | :--------------------------------: | :------------------------------------: |
-| ![Home](/assets/mockup/home.svg) | ![about](/assets/mockup/about.svg) | ![contact](/assets/mockup/contact.svg) |
+|           **Homepage**            |              **About**              |       **Contact/Partner with Us**       |
+| :-------------------------------: | :---------------------------------: | :-------------------------------------: |
+| ![home](./assets/mockup/home.svg) | ![about](./assets/mockup/about.svg) | ![contact](./assets/mockup/contact.svg) |
 
 ### Prototype (Figma)
 
-| **Homepage** | **About** | **Contact/Partner with Us** |
-| :----------: | :-------: | :-------------------------: |
-|              |           |                             |
+|                     **Flow Prototyping**                     |
+| :----------------------------------------------------------: |
+| ![flow-prototyping](./assets/prototype/flow-prototyping.png) |
+
+## Live Preview
+
+Wireframe (provide with Miro): [Click Here](https://miro.com/app/board/uXjVPuF9TEQ=/?share_link_id=248301233094)
+
+Mockup & Prototype (provide with Figma): [Click Here](https://www.figma.com/file/RspfUgwG4xbWm1HZy7Q62B/week-2-assignment?node-id=12%3A42&t=BNGhqaSUA0VQEtdj-1)
