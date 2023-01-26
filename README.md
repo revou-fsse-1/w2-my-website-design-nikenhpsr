@@ -47,17 +47,11 @@ This is an example of a website for renting a guest house. The design is inspire
 | :----------------------------------: | :------------------------------------: | :--------------------------------------------------------: |
 | ![Home](./assets/wireframe/home.jpg) | ![About](./assets/wireframe/about.jpg) | ![Contact/Partner with Us](./assets/wireframe/contact.jpg) |
 
-### Mockup (Figma)
+### Mockup & Prototype (Figma)
 
 |           **Homepage**            |              **About**              |       **Contact/Partner with Us**       |
 | :-------------------------------: | :---------------------------------: | :-------------------------------------: |
-| ![home](./assets/mockup/home.svg) | ![about](./assets/mockup/about.svg) | ![contact](./assets/mockup/contact.svg) |
-
-### Prototype (Figma)
-
-|                     **Flow Prototyping**                     |
-| :----------------------------------------------------------: |
-| ![flow-prototyping](./assets/prototype/flow-prototyping.png) |
+| ![home](./assets/mockup/home.svg) | ![about](./assets/mockup/about.svg) | ![contact](./assets/mockup/contact.svg) |s
 
 ## Live Preview
 
