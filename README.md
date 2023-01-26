@@ -28,7 +28,7 @@ Feel the coziness and warm vibes. Interact and becoming one with the community. 
 | Athens Grey | #E0E1E1 |
 | Bunker      | #1A1B1B |
 | Ivory       | #FFFFFE |
-| Nero        | #1a1a1a |
+| Nero        | #1A1A1A |
 
 **Fonts Used:**
 
@@ -51,7 +51,7 @@ Prototype (provide with Figma):
 
 |              **Homepage**               |              **About**               |                **Contact/Partner with Us**                 |
 | :-------------------------------------: | :----------------------------------: | :--------------------------------------------------------: |
-| ![Home](/assets/wireframe/homepage.jpg) | ![About](/assets/wireframe/about.jpg) | ![Contact/Partner with Us](/assets/wireframe/contacts.jpg) |
+| ![Home](/assets/wireframe/home.jpg) | ![About](/assets/wireframe/about.jpg) | ![Contact/Partner with Us](/assets/wireframe/contact.jpg) |
 
 ### Mockup (Figma)
 
