@@ -49,9 +49,9 @@ Prototype (provide with Figma):
 
 ### Wireframe (Miro)
 
-|           **Homepage**           |           **About**            |             **Contact/Partner with Us**             |
-| :------------------------------: | :----------------------------: | :-------------------------------------------------: |
-| ![Home](/wireframe/homepage.jpg) | ![About](/wireframe/about.jpg) | ![Contact/Partner with Us](/wireframe/contacts.jpg) |
+|              **Homepage**               |              **About**               |                **Contact/Partner with Us**                 |
+| :-------------------------------------: | :----------------------------------: | :--------------------------------------------------------: |
+| ![Home](/assets/wireframe/homepage.jpg) | ![About](/assets/wireframe/about.jpg | ![Contact/Partner with Us](/assets/wireframe/contacts.jpg) |
 
 ### Mockup (Figma)
 
