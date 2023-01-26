@@ -17,16 +17,17 @@ This design blablablablablablablabla
 | :------------------------------ |
 | [Tiket](https://www.tiket.com)  |
 | [Agoda](https://www.agoda.com/) |
+
 | [Airbnb](https://www.airbnb.com/)
 | [Traveloka](https://www.traveloka.com) |
 | [Pomah Rent House](https://dribbble.com/shots/10737300-Pomah-Rent-House-Landing-Page) |
 
-| Color       | Code    |
-| :---------- | :------ |
-| Atlantis    | #8CCC4C |
-| Athens Grey | #E0E1E1 |
-| Bunker      | #1A1B1B |
-| Ivory       | #FFFFFE |
+| Color              | Code    |
+| :----------------- | :------ |
+| Green Peas         | #8CCC4C |
+| Lavender Pinocchio | #E0E1E1 |
+| Bunker             | #1A1B1B |
+| Ivory              | #FFFFFE |
 
 **Fonts Used:**
 
