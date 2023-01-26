@@ -39,9 +39,13 @@ This is an example of a website for renting a guest house. A cheaper option comp
 
 ## Live Preview
 
-Wireframe (provide with Miro): https://miro.com/app/board/uXjVPuF9TEQ=/?share_link_id=248301233094
+Wireframe (provide with Miro): 
 
-Mockup (provide with Figma): https://www.figma.com/file/
+[![miro-logo](https://raw.githubusercontent.com/revou-fsse-1/w2-my-website-design-aldwiputra/main/assets/go-to-miro-button.png)](https://miro.com/app/board/uXjVPuF9TEQ=/?share_link_id=248301233094))
+
+Mockup (provide with Figma): 
+
+[![figma-logo](https://raw.githubusercontent.com/revou-fsse-1/w2-my-website-design-aldwiputra/main/assets/go-to-figma-button.png)](https://www.figma.com/file/RspfUgwG4xbWm1HZy7Q62B/week-2-assignment?node-id=12%3A42&t=BNGhqaSUA0VQEtdj-1)
 
 Prototype (provide with Figma):
 
