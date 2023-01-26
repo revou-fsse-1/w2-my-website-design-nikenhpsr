@@ -17,7 +17,6 @@ This design blablablablablablablabla
 | :------------------------------ |
 | [Tiket](https://www.tiket.com)  |
 | [Agoda](https://www.agoda.com/) |
-
 | [Airbnb](https://www.airbnb.com/)
 | [Traveloka](https://www.traveloka.com) |
 | [Pomah Rent House](https://dribbble.com/shots/10737300-Pomah-Rent-House-Landing-Page) |
