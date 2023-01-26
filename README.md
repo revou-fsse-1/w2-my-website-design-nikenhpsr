@@ -40,7 +40,7 @@ This design blablablablablablablabla
 
 Wireframe (provide with Miro): https://miro.com/app/board/uXjVPuF9TEQ=/?share_link_id=248301233094
 
-Mockup (provide with Figma): https://www.figma.com/file/RspfUgwG4xbWm1HZy7Q62B/week-2-assignment?node-id=0%3A1&t=3OjZr31yhm1cOp8r-1
+Mockup (provide with Figma): https://www.figma.com/file/
 
 Prototype (provide with Figma):
 
@@ -50,6 +50,6 @@ Prototype (provide with Figma):
 
 |              **Homepage**               |               **About**               |                **Contact/Partner with Us**                 |
 | :-------------------------------------: | :-----------------------------------: | :--------------------------------------------------------: |
-| ![Home](/assets/wireframe-homepage.png) | ![About](/assets/wireframe-about.png) | ![Contact/Partner with Us](/assets/wireframe-contacts.png) |
+| ![Home](/assets/wireframe/homepage.jpg) | ![About](/assets/wireframe/about.jpg) | ![Contact/Partner with Us](/assets/wireframe/contacts.jpg) |
 
 ### Mockup & Prototype (Figma)
