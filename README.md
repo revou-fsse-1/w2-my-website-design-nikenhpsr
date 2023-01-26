@@ -4,8 +4,7 @@
 
 ## Description
 
-This is an example of a website for renting a guest house. A cheaper option compared to hotels with an amazing & rare view.
-Feel the coziness and warm vibes. Interact and becoming one with the community. The design is inspired by Agoda, Traveloka, Pomah Rent House, and Airbnb.
+This is an example of a website for renting a guest house. A cheaper option compared to hotels with an amazing & rare view. The design is inspired by Agoda, Traveloka, Pomah Rent House, and Airbnb.
 
 ## Sources
 
@@ -29,6 +28,7 @@ Feel the coziness and warm vibes. Interact and becoming one with the community. 
 | Bunker      | #1A1B1B |
 | Ivory       | #FFFFFE |
 | Nero        | #1A1A1A |
+| Gossips     | #ABCE85 |
 
 **Fonts Used:**
 
@@ -49,17 +49,17 @@ Prototype (provide with Figma):
 
 ### Wireframe (Miro)
 
-|              **Homepage**               |              **About**               |                **Contact/Partner with Us**                 |
-| :-------------------------------------: | :----------------------------------: | :--------------------------------------------------------: |
+|            **Homepage**             |               **About**               |                **Contact/Partner with Us**                |
+| :---------------------------------: | :-----------------------------------: | :-------------------------------------------------------: |
 | ![Home](/assets/wireframe/home.jpg) | ![About](/assets/wireframe/about.jpg) | ![Contact/Partner with Us](/assets/wireframe/contact.jpg) |
 
 ### Mockup (Figma)
 
-| **Homepage** | **About** | **Contact/Partner with Us** |
-| :----------: | :-------: | :-------------------------: |
-|              |           |                             |
+|           **Homepage**           |             **About**              |      **Contact/Partner with Us**       |
+| :------------------------------: | :--------------------------------: | :------------------------------------: |
+| ![Home](/assets/mockup/home.svg) | ![about](/assets/mockup/about.svg) | ![contact](/assets/mockup/contact.svg) |
 
-### Prototype (Figma) nnnn
+### Prototype (Figma)
 
 | **Homepage** | **About** | **Contact/Partner with Us** |
 | :----------: | :-------: | :-------------------------: |
