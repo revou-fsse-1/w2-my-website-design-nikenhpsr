@@ -4,7 +4,8 @@
 
 ## Description
 
-This design blablablablablablablabla
+This is an example of a website for renting a guest house. A cheaper option compared to hotels with an amazing & rare view. 
+Feel the coziness and warm vibes. Interact and becoming one with the community. The design is inspired by Agoda, Traveloka, Pomah Rent House, and Airbnb.
 
 ## Sources
 
